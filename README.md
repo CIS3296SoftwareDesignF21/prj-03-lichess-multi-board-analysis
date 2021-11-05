@@ -1,7 +1,5 @@
 # Project 
 
-# How to Run
-
-# How to Install
+Real repo is at: https://github.com/CIS3296SoftwareDesignF21/Lichess-Multi-Board-Analysis-Tool
 
 
